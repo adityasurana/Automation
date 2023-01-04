@@ -26,4 +26,19 @@ Automation with Python
   @ Getting listed jobs on linedin of specific skills, company etc...
 
   @ Scrapping user profile their education, experience and many more..
+  
+# 3.) TwitterBot
+  Twitter Bot / Scrapper
+
+  A bot for performing automated task involving Twitter use cases.
+
+  Such as :-
+
+  @ Getting Users tweets, followers, likes, comments, retweets etc..
+
+  @ Tweeting, Re-tweeting, Liking, Commenting from one's account
+
+  @ Getting latest trends going on twitter and many more twitter related things..
+
+
 
