@@ -1,6 +1,7 @@
-# Automation
+## Automation
 Automation with Python
-1.) TelegramBot
+
+# 1.) TelegramBot
   Telegram Bot / Scrapper
 
   A bot for performing automated task involving telegram use cases.
